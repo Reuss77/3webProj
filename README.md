@@ -671,9 +671,11 @@ La licence MIT garantit que le logiciel est fourni "tel quel" sans garantie d'au
 
 ### Ressources d'Aide
 
+
 - **Documentation** : [docs.bibliotheque-municipale.fr](https://docs.bibliotheque-municipale.fr)
-- **Issues GitHub** : [github.com/username/openlibrary-app/issues](https://github.com/username/openlibrary-app/issues)
-- **Discussions** : [github.com/username/openlibrary-app/discussions](https://github.com/username/openlibrary-app/discussions)
+- **Issues GitHub** : [https://github.com/Reuss77/3webProj.git]
+- **Discussions** : [github.com/Reuss77/3webProj/discussions](https://github.com/Reuss773webProj/discussions)
+
 
 ### Contact
 
