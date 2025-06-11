@@ -6,7 +6,7 @@
 ![Vite](https://img.shields.io/badge/Vite-6.3.5-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-Une application web moderne de bibliothèque municipale développée avec React 19, TypeScript et Vite. Interface complète pour la recherche de livres, exploration de la base OpenLibrary et intégration Wikipedia avec routing avancé et tests complets.
+Une application web moderne de bibliothèque municipale développée avec React 19, TypeScript et Vite. Interface complète pour la recherche de livres, exploration de la base OpenLibrary et intégration Wikipedia avec routing avancé et tests complets. ( si il existe un probleme se référer au rendu moodle)
 
 ## 📋 Table des Matières
 
